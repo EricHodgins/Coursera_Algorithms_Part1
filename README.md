@@ -12,8 +12,9 @@ java-algs4 PercolationVisualizer percolation_input.txt
 ```
 You compile and then run the visualizer.  
 
-### Week 2 - Queues
+### Week 2 - Stacks, Queues and Resizing Arrays
 Week 2 introduces Stacks and Queues and their implementations.  Looks at two main ways to deal with mutable arrays.
-1. Resizing arrays. Doubling the size of the array when it is full. And when the array is 1/4 full half it.
+
+1. Resizing arrays. Doubling the size of the array when it is full. And when the array is 1/4 full, half it.
 2. Stacks or Queues. Stacks are LIFO and Queues are FIFO.
 
