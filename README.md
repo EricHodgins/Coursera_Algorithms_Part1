@@ -18,3 +18,9 @@ Week 2 introduces Stacks and Queues and their implementations.  Looks at two mai
 1. Resizing arrays. Doubling the size of the array when it is full. And when the array is 1/4 full, half it.
 2. Stacks or Queues. Stacks are LIFO and Queues are FIFO.
 
+
+## Week 3 - Sorting: Merge and Quick Sort.
+Week 3 introduces two non-trivial sorting algorithms.  Merge and Quick sort.  Both are nlgn time complexity.  Quick is
+probably quicker in practice.
+
+![alt tag](https://github.com/EricHodgins/Coursera_Algorithms_Part1/blob/master/pictures/collinear_200pts.png)
