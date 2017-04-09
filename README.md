@@ -24,3 +24,8 @@ Week 3 introduces two non-trivial sorting algorithms.  Merge and Quick sort.  Bo
 probably quicker in practice.
 
 ![alt tag](https://github.com/EricHodgins/Coursera_Algorithms_Part1/blob/master/pictures/collinear_200pts.png)
+
+## Week 4 - Priority Queues, Heap Sort, BST's
+Week 4 introduces Priority Queues, BST's, Heap sort and later introducing BST's and Symbol tables.  The assignment entails implementing the A * algorithm to solve an 8puzzle problem.
+
+![alt tag](https://github.com/EricHodgins/Coursera_Algorithms_Part1/blob/master/pictures/8puzzle.png)
