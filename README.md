@@ -29,3 +29,12 @@ probably quicker in practice.
 Week 4 introduces Priority Queues, BST's, Heap sort and later introducing BST's and Symbol tables.  The assignment entails implementing the A * algorithm to solve an 8puzzle problem.
 
 ![alt tag](https://github.com/EricHodgins/Coursera_Algorithms_Part1/blob/master/pictures/8puzzle.png)
+
+## Week 5 - KdTrees
+Week 5 introduces 2dTrees and KdTrees.  The assignment involves constructing a 2dTree to solve **closest neighbor (logN)** and **range methods (R + logN..typical case)** on a series of points. KdTrees greatly improve the efficiency over the brute force method which would be exponential.
+
+![alt tag](https://github.com/EricHodgins/Coursera_Algorithms_Part1/blob/master/pictures/treevisualizer.png)
+
+![alt tag](https://github.com/EricHodgins/Coursera_Algorithms_Part1/blob/master/pictures/kdtreerange.png)
+
+![alt tag](https://github.com/EricHodgins/Coursera_Algorithms_Part1/blob/master/pictures/nearestneighbor.png)
